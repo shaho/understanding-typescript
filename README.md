@@ -1,2 +1,2 @@
 # understanding-typescript
-Experimental repo
+Experimental repo to typscript.
